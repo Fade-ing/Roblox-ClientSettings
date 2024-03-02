@@ -1,0 +1,16 @@
+{
+    "FFlagDebugGraphicsDisableOpenGL": true,
+    "FFlagDebugGraphicsDisableVulkan": true,
+    "FFlagDebugGraphicsDisableVulkan11": true,
+    "FFlagFixGraphicsQuality": true,
+    "FFlagDebugGraphicsPreferD3D11FL10": true,
+    "FIntDebugForceMSAASamples": 0,
+    "FIntRenderShadowIntensity": 0,
+    "DFFlagDebugPauseVoxelizer": true,
+    "DFFlagDebugRenderForceTechnologyVoxel": true,
+    "DFFlagDisableDPIScale": false,
+    "FFlagDisablePostFx": true,
+    "DFIntDebugFRMQualityLevelOverride": 1,
+    "FIntRenderLocalLightUpdatesMax": 0,
+    "FIntRenderLocalLightUpdatesMin": 0
+}
