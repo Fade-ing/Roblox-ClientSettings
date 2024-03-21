@@ -3,7 +3,7 @@
     "FFlagDebugGraphicsDisableVulkan": true,
     "FFlagDebugGraphicsDisableVulkan11": true,
     "FFlagFixGraphicsQuality": true,
-    "FFlagDebugGraphicsPreferD3D11FL10": true,
+    "FFlagDebugGraphicsPreferD3D11": true,
     "FIntDebugForceMSAASamples": 0,
     "FIntRenderShadowIntensity": 0,
     "DFFlagDebugPauseVoxelizer": true,
