@@ -1,12 +1,13 @@
 {
+    "FFlagDebugGraphicsDisableOpenGL": true,
     "FFlagDebugGraphicsDisableVulkan": true,
     "FFlagDebugGraphicsDisableVulkan11": true,
-    "FFlagDebugGraphicsPreferOpenGL": true,
     "FIntDebugForceMSAASamples": 0,
     "FIntRenderShadowIntensity": 0,
     "DFFlagDebugRenderForceTechnologyVoxel": true,
     "DFFlagDebugPauseVoxelizer": true,
     "DFFlagDisableDPIScale": false,
-    "FFlagDisablePostFx": true,
-    "DFIntDebugFRMQualityLevelOverride": 1
+    "DFIntDebugFRMQualityLevelOverride": 1,
+    "DFIntTaskSchedulerTargetFps": 999,
+    "FFlagFixGraphicsQuality": true
 }
