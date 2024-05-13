@@ -1,7 +1,7 @@
 {
     "FFlagDebugGraphicsDisableVulkan": true,
     "FFlagDebugGraphicsDisableVulkan11": true,
-    "FFlagDebugGraphicsDisableOpenGL": true,
+    "FFlagDebugGraphicsPreferOpenGL": true,
     "DFFlagDebugRenderForceTechnologyVoxel": true,
     "DFFlagDebugPauseVoxelizer": true,
     "FIntRenderShadowIntensity": 0,
