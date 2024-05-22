@@ -1,13 +1,18 @@
 {
-    "FFlagDebugGraphicsDisableVulkan": true,
-    "FFlagDebugGraphicsDisableVulkan11": true,
-    "FFlagDebugGraphicsPreferOpenGL": true,
+    "FFlagDebugGraphicsDisableDirect3D11": false,
+    "FFlagDebugGraphicsPreferD3D11": false,
+    "FFlagDebugGraphicsPreferD3D11FL10": true,
+    "FFlagGraphicsEnableD3D10Compute": true,
     "DFFlagDebugRenderForceTechnologyVoxel": true,
     "DFFlagDebugPauseVoxelizer": true,
+    "DFFlagDisableDPIScale": false,
     "FIntRenderShadowIntensity": 0,
+    "FFlagDisablePostFx": true,
     "FIntDebugForceMSAASamples": 0,
     "DFIntDebugFRMQualityLevelOverride": 1,
-    "FFlagDisablePostFx": true,
-    "DFFlagDisableDPIScale": false,
-    "DFIntTaskSchedulerTargetFps": 9999
+    "FFlagFixGraphicsQuality": true,
+    "DFIntMaxFrameBufferSize": 4,
+    "FIntRenderLocalLightFadeInMs": 0,
+    "FFlagNewLightAttenuation": true,
+    "FFlagFastGPULightCulling3": true
 }
