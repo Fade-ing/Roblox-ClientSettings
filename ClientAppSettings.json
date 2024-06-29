@@ -1,11 +1,10 @@
 {
-    "FFlagDebugGraphicsDisableVulkan": true,
-    "FFlagDebugGraphicsDisableVulkan11": true,
-    "FFlagDebugGraphicsDisableOpenGL": false,
-    "FFlagDebugGraphicsPreferOpenGL": true,
+    "DFFlagDisableDPIScale": false,
+    "FIntFRMMinGrassDistance": 0,
+    "FIntFRMMaxGrassDistance": 0,
+    "FIntRenderGrassDetailStrands": 0,
     "FIntRenderShadowIntensity": 0,
     "FFlagDisablePostFx": true,
     "FIntDebugForceMSAASamples": 0,
-    "DFIntDebugFRMQualityLevelOverride": 1,
-    "DFFlagDebugRenderForceTechnologyVoxel": true
+    "DFIntDebugFRMQualityLevelOverride": 1
 }
