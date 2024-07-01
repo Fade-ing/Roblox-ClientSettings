@@ -6,7 +6,5 @@
     "FIntRenderShadowIntensity": 0,
     "FFlagDisablePostFx": true,
     "FIntDebugForceMSAASamples": 0,
-    "DFIntDebugFRMQualityLevelOverride": 1,
-    "DFFlagDebugRenderForceTechnologyVoxel": true,
-    "DFFlagDebugPauseVoxelizer": true
+    "DFIntDebugFRMQualityLevelOverride": 1
 }
