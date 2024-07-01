@@ -9,6 +9,8 @@
     "DFIntDebugFRMQualityLevelOverride": 1,
     "FFlagDebugForceFSMCPULightCulling": true,
     "FFlagFastGPULightCulling3": true,
-    "FFlagNewLightAttenuation": true,
-    "DFIntPerformanceControlTextureQualityBestUtility": -1
+    "DFFlagTextureQualityOverrideEnabled": true,
+    "DFIntTextureQualityOverride": 0,
+    "DFFlagDebugRenderForceTechnologyVoxel": true,
+    "DFFlagDebugPauseVoxelizer": true
 }
