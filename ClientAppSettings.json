@@ -6,5 +6,9 @@
     "FIntRenderShadowIntensity": 0,
     "FFlagDisablePostFx": true,
     "FIntDebugForceMSAASamples": 0,
-    "DFIntDebugFRMQualityLevelOverride": 1
+    "DFIntDebugFRMQualityLevelOverride": 1,
+    "FFlagDebugForceFSMCPULightCulling": true,
+    "FFlagFastGPULightCulling3": true,
+    "FFlagNewLightAttenuation": true,
+    "DFIntPerformanceControlTextureQualityBestUtility": -1
 }
